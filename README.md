@@ -17,3 +17,5 @@
 
 <strong>I used Bootstrap 4, Hamburger CSS, Owl Carousel, ScrollReveal.</strong>
 
+<strong><h3> Website's link: http://alazsimsek.com </h3></strong>
+
